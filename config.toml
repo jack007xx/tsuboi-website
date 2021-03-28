@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://jack007zz.github.io/submodule-test"
 languageCode = "en-us"
 title = "My New Hugo Site"
-publishDir = 'submodule-test'
+theme = "ananke"
